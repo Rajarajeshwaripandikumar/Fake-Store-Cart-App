@@ -1,41 +1,27 @@
+# 🛍 Fake Store Cart App
 
-🛍 Fake Store Cart App (React + Router + Tailwind)
-A responsive ReactJS shopping cart application that fetches product data from the Fake Store API and enables adding, removing, and updating cart items with proper page routing. Users can browse products on the Products Page, navigate to the Cart Page, adjust quantities, view a dynamically updated total price, and get an automatic 10% discount applied at checkout.
+A simple e-commerce shopping cart application built with **React 18**, **React Router v6**, and **Context API**.  
+It fetches products from the [Fake Store API](https://fakestoreapi.com/) and allows users to browse, add to cart, and view their cart.
 
-🚀 Features
-✅ Fetches products from Fake Store API
-✅ Displays product cards with image, title, price, and description
-✅ "Add to Cart" & "Remove from Cart" toggle button
-✅ Quantity increment/decrement on cart page
-✅ Real-time total price calculation with 10% discount
-✅ Routing between Products and Cart using React Router v6
-✅ Global cart state management via React Context API
-✅ Fully responsive design with Tailwind CSS
+## 🚀 Features
+- Product listing page
+- Add/remove products from cart
+- Persistent cart state using Context API
+- Responsive UI
 
-🧪 Tech Stack
-ReactJS
+## 🧪 Tech Stack
+- **React 18** – UI library for building the interface
+- **React Router v6** – Client-side navigation
+- **Context API** – Global state management
+- **Tailwind CSS** – Styling
 
-JavaScript (ES6+)
-
-Tailwind CSS
-
-React Router v6
-
-Fake Store API
-
-📦 Installation
-bash
-Copy
-Edit
+## 📦 Installation
+```bash
 # Clone the repository
-git clone https://github.com/your-username/fake-store-cart-app.git
-cd Task Using Router
+git clone https://github.com/<your-username>/Fake-Store-Cart-App.git
 
 # Install dependencies
 npm install
 
-# Run the app
-npm start  # if using Create React App
-=======
-# Fake-Store-Cart-App
->>>>>>> 35f07a7e9f2f8a2687500524003771279e9c938d
+# Start development server
+npm start
