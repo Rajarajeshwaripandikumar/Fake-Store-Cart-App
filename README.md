@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 🛍 Fake Store Cart App (React + Router + Tailwind)
 A responsive ReactJS shopping cart application that fetches product data from the Fake Store API and enables adding, removing, and updating cart items with proper page routing. Users can browse products on the Products Page, navigate to the Cart Page, adjust quantities, view a dynamically updated total price, and get an automatic 10% discount applied at checkout.
 
