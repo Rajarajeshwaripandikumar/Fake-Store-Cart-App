@@ -18,7 +18,7 @@ It fetches products from the [Fake Store API](https://fakestoreapi.com/) and all
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Fake-Store-Cart-App.git
+git clone [https://github.com/Rajarajeshwaripandikumar/Fake-Store-Cart-App.git]
 
 # Install dependencies
 npm install
